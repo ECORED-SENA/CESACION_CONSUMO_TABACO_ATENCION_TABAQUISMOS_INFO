@@ -1,8 +1,8 @@
-# **sena-base-info-2021 v1.1.0**
+# **Cesación del consumo del tabaco y atención del tabaquismo**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-sena.github.io/CESACION_CONSUMO_TABACO_ATENCION_TABAQUISMOS_INFO/](https://ecored-sena.github.io/CESACION_CONSUMO_TABACO_ATENCION_TABAQUISMOS_INFO/)
 
 #
 
