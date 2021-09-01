@@ -13,27 +13,18 @@ section
           .banner-principal__datos
             ul
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Nombre del programa: 
-                p.banner-principal__datos__item__texto Cesación del consumo del tabaco y atención del tabaquismo
-              li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
                 p.banner-principal__datos__item__texto 33130186
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
-                p.banner-principal__datos__item__texto 48 Horas
+                p.banner-principal__datos__item__texto 48
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
+                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
                 p.banner-principal__datos__item__texto 1(un) mes
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto virtual
-              li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Requisito de ingreso: 
-                .banner-principal__datos__item__texto
-                  ul.lista-ul
-                    li
-                      i.lista-ul__vineta
-                      p El programa Cesación del consumo del tabaco y atención del tabaquismo, está dirigido a: personal de salud, auxiliares, técnicos, profesionales del sector salud.
+              
                     
 
         .d-none.d-lg-block.col-lg-5

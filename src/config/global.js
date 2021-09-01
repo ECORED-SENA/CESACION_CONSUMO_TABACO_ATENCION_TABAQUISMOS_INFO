@@ -14,6 +14,33 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Yolanda Sandoval',
+        cargo: 'Profesional especializado',
+        centro: 'Subdirección de enfermedades no transmisibles',
+      },
+      {
+        nombre: 'Jhacesiz Mary Hincapié Atehortúa',
+        cargo:
+          'Instructora (EPC) – Líder desarrollo curricular Servicios Personales',
+        centro: 'Centro de Servicios de Salud',
+      },
+      {
+        nombre: 'Giovanna Andrea',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Regional Antioquia - Centro de Servicios de Salud.',
+      },
+      {
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Evaluadora Instruccional',
+        centro: 'Regional Distrito Capital - Centro de gestión industrial.',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica.',
+      },
     ],
     desarrolloProducto: [
       {
@@ -34,12 +61,6 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Ricardo Alfonso González Vargas',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
         nombre: [
           'Zuleidy Maria Ruiz Torres',
           'Wilson Andrés Arenales Caceres',
@@ -52,7 +73,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Ricardo Alfonso González Vargas',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Emilsen Alfonso Bautista',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
